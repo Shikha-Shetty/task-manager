@@ -21,7 +21,7 @@ DELETE /tasks/:id: Delete a task by its ID.
 
 To run this project locally, you'll need [list of requirements, e.g., Node.js, Python 3.x, etc.]. Follow these steps to get started:
 
-1. Clone this repository: `git clone https://github.com/your/repository.git`
+1. Clone this repository: `git clone https://github.com/Shikha-Shetty/task-manager.git`
 2. Navigate to the project directory: `cd project-directory`
 3. Install dependencies: 
 npm install
