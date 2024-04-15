@@ -31,3 +31,8 @@ npm install
 To start the API server, run the following command:
 npm run start
 
+## Postman Collection
+
+Please import the postman collection for this project below:
+
+- [Task_Manager.postman_collection.json](Task_Manager.postman_collection.json)
